@@ -1,6 +1,6 @@
 # Auth
 
-A small FastAPI service that handles login once and issues short-lived codes other local apps can exchange for a user's identity, in the shape of an OAuth authorization-code flow. Currently used by [`pr-agent`](<link-to-pr-agent-repo>).
+A small FastAPI service that handles login once and issues short-lived codes other local apps can exchange for a user's identity, in the shape of an OAuth authorization-code flow. Currently used by [`pr-agent`](https://github.com/Vainius2002/local-agent).
 
 ## How it works
 
