@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+jinja2
+python-dotenv
+argon2-cffi
+python-multipart
+alembic

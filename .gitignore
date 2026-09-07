@@ -1,0 +1,6 @@
+.env
+*.db
+key.pem
+cert.pem
+venv/
+__pycache__/
