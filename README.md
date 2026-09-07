@@ -24,4 +24,4 @@ Browsers will flag the self-signed certificate as untrusted; that's expected for
 
 ## Used by
 
-Other apps redirect unauthenticated users here and exchange the resulting code for a user identity through `/token`. See [`pr-agent`](<link-to-pr-agent-repo>) for a working example of that flow.
+Other apps redirect unauthenticated users here and exchange the resulting code for a user identity through `/token`. See [`pr-agent`](https://github.com/Vainius2002/local-agent) for a working example of that flow.
